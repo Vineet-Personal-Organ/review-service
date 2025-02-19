@@ -116,6 +116,7 @@ Welcome! This document details the setting up of a development environment. The 
 		rubocop
 
     these should not give any errors (warnings are fine).
+   
 # Stack
 	Ruby: 2.3.7
 	Rails: 5.2.0
